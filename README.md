@@ -19,4 +19,5 @@ Please refer to the LICENSE in the repo
 
 ## Link
 * [https://github.com/yourvza/Event-Planner](https://github.com/yourvza/Management-Employee-Tracker)
-* https://yourvza.github.io/Event-Planner/
+* [employee tracker.webm](https://github.com/yourvza/Management-Employee-Tracker/assets/155742735/f074ab02-a7d6-4250-bdeb-2463fb0051a5)
+
